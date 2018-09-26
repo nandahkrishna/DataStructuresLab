@@ -12,7 +12,7 @@ Programs written for Data Structures Lab in the 3rd Semester. All programs are w
     a. Array implementation of stack <br>
     b. Infix to Postfix expression conversion <br>
     c. Evaluation of Postfix expression <br>
-4. Queues:
+4. Queues: <br>
     a. Array implementation of queue <br>
     b. Circular queue <br>
     c. Priority queue <br>
