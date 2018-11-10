@@ -27,5 +27,5 @@ Programs written for Data Structures Lab in the 3rd Semester. All programs are w
     a. Depth First Search and Pathfinder <br>
     b. Breadth First Search and Pathfinder <br>
 7. Hashing: <br>
-    a. <br>
-    b. <br>
+    a. Separate Chaining<br>
+    b. Open Addressing - Linear Probing<br>
